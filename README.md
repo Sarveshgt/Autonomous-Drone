@@ -73,7 +73,7 @@ The full **project report (Black Book)** is included as a PDF with complete meth
 
 - [`Assets/Black Book FINAL Grp 14 2.pdf`](Assets/Black%20Book%20FINAL%20Grp%2014%202.pdf)
 
-Additional reference: [`Reserch Paper.pdf`](Reserch%20Paper.pdf) (filename as in repository).
+Additional reference: [`Reserch Paper.pdf`](Reserch%20Paper.pdf).
 
 ---
 
